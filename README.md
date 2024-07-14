@@ -2,6 +2,8 @@
 
 ![image](https://github.com/user-attachments/assets/bf9f6053-6465-4f91-a239-2aff302adea4)
 
+LIVE LINK = "https://personal-portfolio-8m1x.onrender.com"
+
 ## Tech Stack Used
 
 - 🖥️ **Front-end library:** React
